@@ -1,5 +1,5 @@
 <?php
-echo 'Testing Line number One .eck this tebkins setup';
+echo 'Testing Line number One .eck this s hhh tebkins setup';
 phpinfo();
 
 ?>
