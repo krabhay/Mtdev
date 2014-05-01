@@ -1,5 +1,5 @@
 <?php
-echo 'Testing jebkins setup';
+echo 'Testing Line number One. jebkins setup';
 phpinfo();
 
 ?>
